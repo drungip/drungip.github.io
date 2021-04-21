@@ -1,0 +1,27 @@
+/* Channel list fix */
+.containerDefault--pIXnN .iconVisibility-sTNpHs.modeConnected-3IsKId, /* vc badge */
+.containerDefault--pIXnN .iconVisibility-sTNpHs.modeSelected-346R90{
+  border-left: 3px solid var(--selected-badge) !important;
+}
+.containerDefault--pIXnN .iconVisibility-sTNpHs.modeConnected-3IsKId .content-1x5b-n, /* vc badge */
+.containerDefault--pIXnN .iconVisibility-sTNpHs.modeSelected-346R90 .content-1x5b-n{
+    margin-left: -1px !important;
+}
+
+
+/* Memberlist fix */
+.member-3-YXUe.selected-aXhQR6{
+  border-left: 3px solid var(--selected-badge) !important;
+}
+.member-3-YXUe.container-2Pjhx-{
+  border-left: 3px solid transparent;
+}
+
+
+/* DMS fix */
+.privateChannels-1nO12o .channel-2QD9_O.selected-aXhQR6{
+  border-left: 3px solid var(--selected-badge) !important;
+}
+.privateChannels-1nO12o .channel-2QD9_O.selected-aXhQR6 .layout-2DM8Md {
+    margin-left: -3px !important;
+}
