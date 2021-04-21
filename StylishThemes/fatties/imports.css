@@ -15,5 +15,6 @@ This is where the importing occurs
 /**/ /* BLURPLERECOLOR IMPORT */
 /**/ @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css');
 /**/
-/**/ /* MODERNINDICATORS IMPORT Fix (updated 4/21) */
-/**/ @import url('https://cdn.discordapp.com/attachments/705807198441308212/834488050246746202/sen_ModernIndicators_Fix.css');
+/**/ /* MODERNINDICATORS IMPORT and FIX */
+/**/ /* ModernIndicators (github?) import here */
+/**/ @import url('https://drungip.github.io/StylishThemes/fatties/ModernIndicators_chrome_patch.css');
