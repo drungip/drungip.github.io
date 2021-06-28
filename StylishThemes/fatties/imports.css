@@ -10,7 +10,7 @@ This is where the importing occurs
 /**/ @import url("https://discordstyles.github.io/RadialStatus/base.css");
 /**/
 /**/ /* CUSTOM ANIMATIONS IMPORT (updated 6/24) */
-/**/ @import url('https://cdn.discordapp.com/attachments/834075798973186068/857730608809508894/NicerDiscord.theme.css');
+/**/ @import url('https://cdn.discordapp.com/attachments/834075798973186068/859129473755906068/NicerDiscord.theme.css');
 /**/
 /**/ /* BLURPLERECOLOR IMPORT */
 /**/ @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css');
@@ -22,3 +22,7 @@ This is where the importing occurs
 /**/ /* Super secret eastereggs */
 /**/ @import url('https://cdn.discordapp.com/attachments/799694773937111051/855128007815594025/eastereggs_main.css');
 
+
+/* Full width settings menu */
+.sidebarRegion-VFTUkN,.sidebarRegionScroller-3MXcoP {flex: 0 0 auto;}
+.contentColumnDefault-1VQkGM {max-width: unset;}
