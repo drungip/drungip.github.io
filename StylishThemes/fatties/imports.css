@@ -28,3 +28,13 @@ This is where the importing occurs
 .contentColumnDefault-1VQkGM {max-width: unset;}
 .contentColumn-2hrIYH .children-rWhLdy{width: 660px;}
 
+/* radial status fix here since i refuse to reach out and tell her to fix it for me */
+:root{
+  --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
+  --rs-medium-spacing: 3px; /* Gap between avatar and status for User popout | MUST end in px */
+  --rs-large-spacing: 4px; /* Gap between avatar and status for User profiles | MUST end in px */
+
+  --rs-small-width: 2px; /* Thickness of status border for members list/dms | MUST end in px */
+  --rs-medium-width: 2px; /* Thickness of status border for User popout | MUST end in px */
+  --rs-large-width: 4px; /* Thickness of status border for User profile | MUST end in px */
+}
