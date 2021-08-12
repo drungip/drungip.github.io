@@ -10,7 +10,7 @@ This is where the importing occurs
 /**/ /* @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); */
 /**/
 /**/ /* CUSTOM ANIMATIONS IMPORT (updated 7/29) */
-/**/ @import url('https://cdn.discordapp.com/attachments/834075798973186068/875429232111656990/NicerDiscord.theme.css');
+/**/ @import url('https://cdn.discordapp.com/attachments/834075798973186068/875458708036010064/NicerDiscord.theme.css');
 /**/
 /**/ /* BLURPLERECOLOR IMPORT */
 /**/ @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css');
@@ -27,6 +27,9 @@ This is where the importing occurs
 .sidebarRegion-VFTUkN,.sidebarRegionScroller-3MXcoP {flex: 0 0 auto;}
 .contentColumnDefault-1VQkGM {max-width: unset;}
 .contentColumn-2hrIYH .children-rWhLdy{width: 660px;}
+
+/* blur background on some modals focus */
+.backdrop-29yll0, .layer-2KE1M9{backdrop-filter: blur(5px);}
 
 /* radial status fix here since i refuse to reach out and tell her to fix it for me */
 :root{
