@@ -25,3 +25,8 @@
 .privateChannels-1nO12o .channel-2QD9_O.selected-aXhQR6 .layout-2DM8Md {
     margin-left: -3px !important;
 }
+
+/* settings menu bars fix */
+.side-8zPYf6 .item-PXvHYJ.selected-3s45Ha{
+    border-left: 3px solid var(--selected-badge) !important;
+}
